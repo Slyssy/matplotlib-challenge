@@ -1,3 +1,11 @@
+This was another challenging assignment. I enjoyed the pandas portion, but I struggled a bit with the statistics for the linear regression. I definitely needed to use google to give myself a crash course in statistics just so I could understand what I was doing. The code itself wasn't super difficult, but I wanted to understand what it was showing me, and that was a challenge.
+
+I definitely feel like I made some progress with my understanding of Pandas.
+
+
+# Below are the instructions for this assignment.
+
+
 # matplotlib-challenge
 UT Data Bootcamp Homework Assignment 05: Matplotlib
 
